@@ -1,15 +1,23 @@
 ---
-layout: page
-title: Home
----
+<div style="display: flex; align-items: center; gap: 30px;">
 
-Hi, I'm Killian Cressant
+<img src="assets/profile.jpg" width="160" style="border-radius:50%;" />
+
+<div>
+
+# Killian Cressant
+---
 
 🎓 Final-year PhD student in Computer Science <br>
 📍 ROC Team, CEDRIC Laboratory  <br>
 🏫 Conservatoire National des Arts et Métiers (CNAM), France  
 
 ---
+
+
+</div>
+
+</div>
 
 ## 🔬 Research Interests
 
@@ -20,19 +28,13 @@ Hi, I'm Killian Cressant
 
 ---
 
-## 🧠 About My Work
+## About My Work
 
 I work on **anomaly detection in time series using Graph Neural Networks**, focusing on:
 
 - Learning dynamic graph structures from temporal data  
 - Modeling complex spatio-temporal systems  
 - Designing scalable detection methods  
-
----
-
-## 📷 About Me
-
-<img src="assets/profile.jpg" width="200" style="border-radius:50%;" />
 
 ---
 
