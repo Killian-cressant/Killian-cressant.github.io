@@ -19,6 +19,7 @@ header_pages:
   - index.md
   - publications.md
   - CV.md
+  - Teaching.md
 
 # Markdown engine
 markdown: kramdown
