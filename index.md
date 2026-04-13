@@ -3,9 +3,9 @@ layout: page
 title: Home
 ---
 
-# 👋 Hi, I'm Your Name
+Hi, I'm Killian Cressant
 
-🎓 Final-year PhD student in Computer Science  
+🎓 Final-year PhD student in Computer Science
 📍 ROC Team, CEDRIC Laboratory  
 🏫 Conservatoire National des Arts et Métiers (CNAM), France  
 
@@ -16,8 +16,7 @@ title: Home
 - Graph Neural Networks (GNNs)  
 - Time Series Analysis  
 - Anomaly Detection  
-- Spatio-Temporal Data  
-- Network Monitoring (5G / IoT)
+- Spatio-Temporal Data
 
 ---
 
@@ -39,6 +38,6 @@ I work on **anomaly detection in time series using Graph Neural Networks**, focu
 
 ## 📫 Contact
 
-- 📧 your.email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
-- 💻 GitHub: https://github.com/your-username  
+- 📧 killian.cressant@lecnam.net  
+- 💼 LinkedIn: https://linkedin.com/in/killian cressant
+- 💻 GitHub: https://github.com/Killian-cressant  
