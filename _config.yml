@@ -4,7 +4,7 @@ baseurl: ""
 url: "https://Killian-cressant.github.io"
 
 # Theme (GitHub supported)
-theme: minimal-mistakes-jekyll
+theme: minimal
 
 # Author info
 author:
