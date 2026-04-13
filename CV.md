@@ -28,12 +28,12 @@ prestigious graduate schools of enginneering
 
 ## Work experience
 
-**First semester 2023: Academic internship at Orange**
+**First semester 2023: Internship at Orange**
 - Quantum Machine Learning for 6G, anomaly detection in networks systems
 - Paris, France
 - Supervisor: Thierry Lejkin
 
-**Spring 2022: Academic intership at EPFL**
+**Spring 2022: Intership at EPFL**
 - Data analysis and machine learning for prediction of human behavior based on brain activities
 - Lausanne, Switzerland
 - Supervisor: Arthur Barakat
