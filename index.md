@@ -5,8 +5,8 @@ title: Home
 
 Hi, I'm Killian Cressant
 
-🎓 Final-year PhD student in Computer Science
-📍 ROC Team, CEDRIC Laboratory  
+🎓 Final-year PhD student in Computer Science <br>
+📍 ROC Team, CEDRIC Laboratory  <br>
 🏫 Conservatoire National des Arts et Métiers (CNAM), France  
 
 ---
