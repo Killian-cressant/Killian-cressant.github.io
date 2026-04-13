@@ -1,21 +1,14 @@
-<div style="display: flex; align-items: center; gap: 30px;">
-
-<img src="assets/profile.jpg" width="160" style="border-radius:50%;" />
-
-<div>
-
-# Killian Cressant
----
-🎓 Final-year PhD student in Computer Science <br>
-📍 ROC Team, CEDRIC Laboratory  <br>
-🏫 Conservatoire National des Arts et Métiers (CNAM), France  
-
----
-
-
+<div style="display: flex; justify-content: flex-start;">
+  <img src="assets/profile.jpg" width="160" style="border-radius:50%;" />
 </div>
 
+<div style="margin-top: 15px;">
+  🎓 Final-year PhD student in Computer Science <br>
+  📍 ROC Team, CEDRIC Laboratory <br>
+  🏫 Conservatoire National des Arts et Métiers (CNAM), France
 </div>
+
+<hr>
 
 ## Research Interests
 
