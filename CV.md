@@ -23,6 +23,7 @@ Chartres, France
 A 3-years undergraduate program for preparation to
 national competitive exams for admission to French most
 prestigious graduate schools of enginneering
+
 ---
 
 ## Work experience
