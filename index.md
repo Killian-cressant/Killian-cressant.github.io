@@ -39,5 +39,5 @@ I work on **anomaly detection in time series using Graph Neural Networks**, focu
 ## 📫 Contact
 
 - 📧 killian.cressant@lecnam.net  
-- 💼 LinkedIn: https://linkedin.com/in/killian cressant
+- 💼 LinkedIn: https://linkedin.com/in/killian-cressant
 - 💻 GitHub: https://github.com/Killian-cressant  
