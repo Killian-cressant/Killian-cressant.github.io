@@ -11,7 +11,7 @@ title: CV
 CEDRIC, CNAM, Paris, France
 - Supervisor: Pedro Braconnot Velloso
 - GNN-based for anomaly detection in network systems. Working on spatio-temporal anomaly detection systems, using GNN models
-- Exchange 3 Months in Urugay, at Universidad de la Republica: dynamic graph neural networks for time series analysis (2025)
+- Exchange 3 Months in Uruguay, at Universidad de la Republica: dynamic graph neural networks for time series analysis (2025)
 
 **Engineering school at Télécom Nancy** *(2020-2023)*
 Nancy, France
