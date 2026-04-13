@@ -1,4 +1,4 @@
-## Teaching
+## Teaching experience
 
 ### **Lecturer (Work-study program)**
 *Master 1 – Lycée Le Rebours, Paris, France*
