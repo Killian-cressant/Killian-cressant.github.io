@@ -1,3 +1,8 @@
+---
+layout: page
+title: Teaching
+---
+
 ## Teaching experience
 
 ### **Lecturer (Work-study program)**
