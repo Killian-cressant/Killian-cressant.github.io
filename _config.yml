@@ -1,3 +1,29 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "Killian Cressant"
+description: "PhD Student in Graph Neural Networks for Time Series Anomaly Detection"
+baseurl: "" 
+url: "https://Killian-cressant.github.io"
+
+# Theme (GitHub supported)
+theme: minima
+
+# Author info
+author:
+  name: "Killian Cressant"
+  email: "killian.cressant@lecnam.net"
+
+# Social links
+github_username: Killian-cressant
+linkedin_username: killian cressant
+
+# Navigation (custom)
+header_pages:
+  - index.md
+  - publications.md
+  - projects.md
+
+# Markdown engine
+markdown: kramdown
+
+# Plugins (supported by GitHub Pages)
+plugins:
+  - jekyll-feed
