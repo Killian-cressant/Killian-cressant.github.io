@@ -1,4 +1,3 @@
----
 <div style="display: flex; align-items: center; gap: 30px;">
 
 <img src="assets/profile.jpg" width="160" style="border-radius:50%;" />
@@ -7,7 +6,6 @@
 
 # Killian Cressant
 ---
-
 🎓 Final-year PhD student in Computer Science <br>
 📍 ROC Team, CEDRIC Laboratory  <br>
 🏫 Conservatoire National des Arts et Métiers (CNAM), France  
