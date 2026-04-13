@@ -17,7 +17,7 @@
 
 </div>
 
-## 🔬 Research Interests
+## Research Interests
 
 - Graph Neural Networks (GNNs)  
 - Time Series Analysis  
@@ -36,7 +36,7 @@ I work on **anomaly detection in time series using Graph Neural Networks**, focu
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 killian.cressant@lecnam.net  
 - 💼 LinkedIn: https://linkedin.com/in/killian-cressant
