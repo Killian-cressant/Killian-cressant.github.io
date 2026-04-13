@@ -7,11 +7,11 @@ title: Publications
 
 ## Journal & Conference Papers
 
-- **Title of your paper**  
-  *Conference/Journal, Year*  
+- **GNN graph structures in network anomaly detection**  
+  *K Cressant, PB Velloso, S Secci, NOMS conference, 2025*  
 
-- **Another paper**  
-  *Conference/Journal, Year*  
+- **Including Node Textual Metadata in Laplacian-constrained Gaussian Graphical Models**  
+  *J Wang, K Cressant, PB Velloso, A Breloy, ArXive, 2026*  
 
 ---
 
