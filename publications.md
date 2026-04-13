@@ -17,4 +17,4 @@ title: Publications
 
 ## 📚 Profiles
 
-- [Google Scholar]((https://scholar.google.com/citations?user=y3_fWhkAAAAJ&hl=fr&oi=ao))
+- [Google Scholar](https://scholar.google.com/citations?user=y3_fWhkAAAAJ&hl=fr&oi=ao)
