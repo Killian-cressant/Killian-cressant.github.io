@@ -51,7 +51,10 @@ prestigious graduate schools of enginneering
 ## Publications
 
 - **GNN graph structures in network anomaly detection**  
-  *K Cressant, PB Velloso, S Secci, NOMS conference, 2025*  
+  *K Cressant, PB Velloso, S Secci, NOMS conference, 2025*
+
+- **On Graph Design for GNN-based Network Anomaly Detection**  
+  *K Cressant, F Larroca, S Secci, PB Velloso*, TNSM, accepted paper in 2026
 
 - **Including Node Textual Metadata in Laplacian-constrained Gaussian Graphical Models**  
   *J Wang, K Cressant, PB Velloso, A Breloy, ArXive, 2026*
