@@ -9,7 +9,9 @@
 </div>
 
 <hr>
-<div style="text-align: center; max-width: 800px; margin: auto;">
+
+<div style="text-align: center; max-width: 800px; margin: auto;"></div>
+
 ## Research Interests
 
 - Graph Neural Networks (GNNs)  
@@ -32,8 +34,5 @@ I work on **anomaly detection in time series using Graph Neural Networks**, focu
 ## Contact
 
 - 📧 killian.cressant@lecnam.net  
-- 💼 LinkedIn: https://linkedin.com/in/killian-cressant
-- 💻 GitHub: https://github.com/Killian-cressant
-
-</div>
-
+- 💼 LinkedIn: https://linkedin.com/in/killian-cressant  
+- 💻 GitHub: https://github.com/Killian-cressant  
