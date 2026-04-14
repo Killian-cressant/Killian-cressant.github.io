@@ -10,19 +10,19 @@ title: CV
 **PhD in Computer Science** *(2023 – Present)*  
 CEDRIC, CNAM, Paris, France
 - Supervisor: Pedro Braconnot Velloso
-- GNN-based for anomaly detection in network systems. Working on spatio-temporal anomaly detection systems, using GNN models
-- Exchange 3 Months in Uruguay, at Universidad de la Republica: dynamic graph neural networks for time series analysis (2025)
+- Graph Neural Network (GNN)-based methods for anomaly detection in network systems, with a focus on spatio-temporal modeling
+- Research exchange (3 months) at Universidad de la República, Uruguay: Dynamic Graph Neural Networks for time series analysis (2025)
 
 **Engineering school at Télécom Nancy** *(2020-2023)*
 Nancy, France
 - Major in Artificial Intelligence and Data analysis
-- Exchange 6 Months in Norway at NTNU: Studying on Lie group, Machine Learning projects and Data analysis.
+- Student exchange (6 months) at NTNU, Norway: Coursework in Lie groups, machine learning projects, and data analysis.
 
-**B.S. in Mathematics and physics (Classes Préparatoires aux Grandes Ecoles)** *(2017-2020)*
+**B.S. in Mathematics and physics (Classes Préparatoires aux Grandes Ecoles)** *(2017-2020)*  
 Chartres, France
 A 3-years undergraduate program for preparation to
 national competitive exams for admission to French most
-prestigious graduate schools of enginneering
+prestigious graduate schools of engineering
 
 ---
 
