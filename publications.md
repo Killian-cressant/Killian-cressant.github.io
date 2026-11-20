@@ -16,10 +16,10 @@ title: Publications
 - **Including Node Textual Metadata in Laplacian-constrained Gaussian Graphical Models**  
   *J Wang, K Cressant, PB Velloso, A Breloy, EUSIPCO conference, 2026*
 
-- **LEED: Local Embedding Evolution Distance for over-smoothing estimation and virtual node selection in GNN**
+- **LEED: Local Embedding Evolution Distance for over-smoothing estimation and virtual node selection in GNN** 
   *K Cressant, PB Velloso, ArXive (submitted at IEEE TNNLS), 2026*
 
-- **EAGLE: An Efficient Graph Learning Framework for Streaming Anomaly Detection**
+- **EAGLE: An Efficient Graph Learning Framework for Streaming Anomaly Detection** 
   *K Cressant, PB Velloso, S Secci, submitted at IEE ICC conference, 2027*
 
 ---
